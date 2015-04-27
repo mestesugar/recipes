@@ -1,0 +1,2 @@
+aceasta comitere este doar un test pentru a invata cum se depune o schimbare 
+de la masina locala spre GitHub.
